@@ -1,2 +1,3 @@
 Service status: running-port-9090
 Clone1 update: port 8080
+Clone2 update: port 9090
